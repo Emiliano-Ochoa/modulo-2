@@ -5,9 +5,9 @@ Este Repositorio esta destinado al módulo 2 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Algoritmos y Ejercicios en PDF](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Algoritmos%20y%20Ejercicios.pdf)
+[Descarga Algoritmos y Ejercicios en PDF](https://github.com/Emiliano-Ochoa/modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.pdf)
 
-[Descarga el archivo zip. con todo el proyecto](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Algoritmos%20y%20Ejercicios.zip)
+[Descarga el archivo zip. con todo el proyecto](https://github.com/Emiliano-Ochoa/modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.zip)
 
 [Hacé clic aquí para ver la presentación final publicada en RPubs]
 
@@ -15,6 +15,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Ejercicio 1.4 en PDF](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Ejercicio%201.4.pdf)
+[Descarga Ejercicio 1.4 en PDF](https://github.com/Emiliano-Ochoa/modulo-2/blob/main/Ejercicio/Ejercicio%201.4.pdf)
 
-[Descarga el archivo zip. con todo el proyecto](https://github.com/Emiliano-Ochoa/Entrega-Modulo1/blob/main/M%C3%B3dulo%202/Ejercicio%201.4.zip)
+[Descarga el archivo zip. con todo el proyecto](https://github.com/Emiliano-Ochoa/modulo-2/blob/main/Ejercicio/Ejercicio%201.4.zip)
